@@ -1,0 +1,24 @@
+/* 
+body{
+    background-image: url(../images/download\ \(2\).jpeg);
+    height: 10%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#divborder{
+background-color: beige;
+padding: 20px;
+margin: 20px;
+border: 2px;
+border-style: dashed;
+border-color: rgb(1, 9, 15);
+}
+h1{font-style: italic;}
+#hist1{font-style:normal; font-size: larger;}
+#hist2{font-style:oblique; font-size: larger;}
+#hist3{font-style:inherit; font-size: larger;}
+#hist4{font-style:initial; font-size: larger;} */
+
+
+
